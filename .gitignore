@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
+*.log
+.DS_Store
+amazon_ecommerce_updated.xlsx
+
+amazon_ecommerce_1M_clean.xlsx
+
+*.pbix
